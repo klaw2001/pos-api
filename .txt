@@ -1,0 +1,6 @@
+// const products = await productsModel.find({ name: name });
+//     if (products) {
+//       return res.status(400).json({
+//         msg: "Product Already Exists",
+//       });
+//     }
